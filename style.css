@@ -1,0 +1,30 @@
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #e8e8e8;
+}
+
+body {
+    background-color: #bbbfca;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #495464;
+}
+
+nav {
+    font-weight: 600;
+}
